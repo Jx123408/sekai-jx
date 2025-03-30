@@ -1,5 +1,5 @@
 {
-    "port": 8080,
+    "port": 1729,
     "verbose": true,
     "updateInterval": 600000,
     "sonolus": {
@@ -28,7 +28,7 @@
     },
     "sonolusShare": {
         "mode": "redirect",
-        "root": "my-domain.com"
+        "root": "pjsekai-jx.com"
     },
     "clients": {
         "ja": {
