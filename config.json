@@ -5,7 +5,7 @@
     "sonolus": {
         "prefix": "sekai-best",
         "basePath": "/",
-        "address": "https://my-domain.com",
+        "address": "https://pjsekai-jx.com",
         "fallbackLocale": "ja",
         "bannerPath": "",
         "packPath": "",
@@ -28,7 +28,7 @@
     },
     "sonolusShare": {
         "mode": "redirect",
-        "root": "pjsekai-jx.com"
+        "root": "pj-sekai-jx.com"
     },
     "clients": {
         "ja": {
